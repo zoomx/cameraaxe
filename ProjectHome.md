@@ -1,0 +1,3 @@
+The Camera Axe is a tool for photographers to trigger cameras or flashes based signals from various sensors. The Camera Axe is useful for catching phenomena that happen too quickly for human reflexes, like photographing a popping balloon or a milk droplet splash. Other uses can be to catch things photographers don't want to wait around for like birds flying to a bird feeder or surveillance of people walking down a hallway. The possibilities are endless. The hardware and software for this project are shared under the Creative Commons Attribution 3.0 License.
+
+Visit [CameraAxe.com](http://www.cameraaxe.com/) for more information.
